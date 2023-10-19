@@ -1,3 +1,4 @@
+![Vut fit logo](doc/vut_fit_logo.png)
 # ECDSA-protocol-in-Haskell
 Implementation of ECDSA algorithm for key generation, message signing and verification.
 
